@@ -1,0 +1,1 @@
+沟槽的用YOLO搞识别的时候记得选择编译器，vcode有时候会发神经，自动选择python，密码的python不兼容OpenCV的模型记得选择YOLO或者conda
