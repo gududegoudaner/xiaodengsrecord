@@ -1,0 +1,5 @@
+主要学习和实战了如何使用闭环pid，pid主要公式非常简单，分为离散和连续的pid
+离散：out(k)=kp*error(k)+ki*Terror(j)的积分+kd*error（k）-error(k-1)/Terror
+连续:out(t)=kp*error(t)+ki*wiefen error(t) +kd*derror(t)/dt
+软件方面还学习了ubuntu双系统安装，并且换源之后下载了gazebo学习仿真
+硬件方面学习了一下小车的硬件画了一下模块化的小车原理图
